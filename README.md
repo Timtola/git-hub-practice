@@ -68,3 +68,6 @@ composer install
 
 ## Badge
 [![app](https://img.shields.io/badge/Learning_Markdown-tutorial-green)](https://www.w3schools.com/python/default.asp)
+
+## Contributor
+- [@TimTola](https://github.com/Timtola/git-hub-practice.git) - Trainer
