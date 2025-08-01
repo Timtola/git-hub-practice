@@ -41,8 +41,7 @@ normal text
    3. list3
 
 ## Image
-![alt text](ai-generated-a-cute-gecko-with-a-colorful-pattern-looking-at-camera-generated-by-ai-free-photo.jpg)
-![Dashboard](dashboard.png)
+![Dashboard](ai-generated-a-cute-gecko-with-a-colorful-pattern-looking-at-camera-generated-by-ai-free-photo.jpg)
 
 ## Link
 CSS Framework [Bootstrap](https://www.w3schools.com/python/default.asp)
