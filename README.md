@@ -65,3 +65,6 @@ composer install
 ```
 ## Button
 <a href="https://www.w3schools.com/python/default.asp" target="_blank">Bootsrap</a>
+
+## Badge
+[![app](https://img.shields.io/badge/Learning_Markdown-tutorial-green)](https://www.w3schools.com/python/default.asp)
