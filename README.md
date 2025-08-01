@@ -39,3 +39,10 @@ normal text
    1. list1
    2. list2
    3. list3
+
+## Image
+![alt text](ai-generated-a-cute-gecko-with-a-colorful-pattern-looking-at-camera-generated-by-ai-free-photo.jpg)
+![Dashboard](dashboard.png)
+
+## Link
+CSS Framework [Bootstrap](https://www.w3schools.com/python/default.asp)
