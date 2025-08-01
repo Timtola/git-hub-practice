@@ -46,7 +46,7 @@ normal text
 ## Link
 CSS Framework [Bootstrap](https://www.w3schools.com/python/default.asp)
 
-## Singlie line code
+## Single line code
 `print("hello world")`
 
 ## multiple line
@@ -62,3 +62,4 @@ for i in range(10):
 npm i express
 pip install cv2
 composer install
+```
